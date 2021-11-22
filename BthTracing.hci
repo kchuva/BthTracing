@@ -1,0 +1,1961 @@
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051847380787; Frame = 1
+Data : 0000 0c 20 02 00 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051847383367; Frame = 2
+Data : 0000 0e 04 02 0c 20 00 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051847383420; Frame = 3
+Data : 0000 f0 fc 02 05 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051847385298; Frame = 4
+Data : 0000 0e 05 02 f0 fc 00 05 
+HCI_WritePacket: Type = Command; Length = 10; Tick = 13282051847385351; Frame = 5
+Data : 0000 0b 20 07 01 bd 00 1d 00 
+Data : 0008 00 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051847387300; Frame = 6
+Data : 0000 0e 04 02 0b 20 00 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051847387403; Frame = 7
+Data : 0000 0c 20 02 01 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051847390164; Frame = 8
+Data : 0000 0e 04 02 0c 20 00 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051847406272; Frame = 9
+Data : 0000 3e 1d 02 01 00 01 38 44 
+Data : 0008 34 b4 dd e4 11 02 01 06 
+Data : 0010 0d 09 41 35 31 35 2d 36 
+Data : 0018 30 2e 30 30 32 39 b4 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051847407273; Frame = 10
+Data : 0000 3e 0c 02 01 04 01 38 44 
+Data : 0008 34 b4 dd e4 00 b4 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051847647247; Frame = 11
+Data : 0000 3e 2b 02 01 03 01 bd a3 
+Data : 0008 08 4f 97 01 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 4a 4a 49 
+Data : 0018 61 86 1e 46 8b 7b e4 17 
+Data : 0020 7f 94 95 6f 36 5f 12 82 
+Data : 0028 20 09 b9 df a0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051847762351; Frame = 12
+Data : 0000 3e 2b 02 01 03 01 a3 c9 
+Data : 0008 ec b8 c2 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 fd 4c 17 
+Data : 0018 ff 2b 2e 54 06 de 0c 78 
+Data : 0020 ea e8 0a ba 81 6a 85 60 
+Data : 0028 5f 72 e3 0b a0 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051847870309; Frame = 13
+Data : 0000 3e 1d 02 01 00 01 47 c4 
+Data : 0008 5c 0e 07 ff 11 02 01 06 
+Data : 0010 0d 09 41 33 31 34 2d 30 
+Data : 0018 33 2e 30 38 39 38 a8 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051847871193; Frame = 14
+Data : 0000 3e 0c 02 01 04 01 47 c4 
+Data : 0008 5c 0e 07 ff 00 a8 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051847994225; Frame = 15
+Data : 0000 3e 1d 02 01 00 01 67 10 
+Data : 0008 f8 37 43 fa 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 38 
+Data : 0018 30 2e 30 34 32 38 aa 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051847995187; Frame = 16
+Data : 0000 3e 0c 02 01 04 01 67 10 
+Data : 0008 f8 37 43 fa 00 aa 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051848111201; Frame = 17
+Data : 0000 3e 2b 02 01 03 01 50 09 
+Data : 0008 81 8c 67 75 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 1a ba 7e 
+Data : 0018 06 d7 6f 9d 36 38 60 2b 
+Data : 0020 69 3c 53 a9 51 5f 3d 7e 
+Data : 0028 07 7a 31 55 a0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051848120303; Frame = 18
+Data : 0000 3e 2b 02 01 03 01 ec 17 
+Data : 0008 54 f5 59 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 a9 69 f6 
+Data : 0018 a6 f8 df 72 c1 dd 7f f8 
+Data : 0020 c8 e0 fe 1d ec 0c 25 30 
+Data : 0028 5f 7b 46 73 a0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051848222306; Frame = 19
+Data : 0000 3e 2b 02 01 03 01 ec 17 
+Data : 0008 54 f5 59 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 a9 69 f6 
+Data : 0018 a6 f8 df 72 c1 dd 7f f8 
+Data : 0020 c8 e0 fe 1d ec 0c 25 30 
+Data : 0028 5f 7b 46 73 a6 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051848344227; Frame = 20
+Data : 0000 3e 1d 02 01 00 01 56 65 
+Data : 0008 36 ae f9 d0 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 36 
+Data : 0018 30 2e 30 33 39 37 a6 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051848345194; Frame = 21
+Data : 0000 3e 0c 02 01 04 01 56 65 
+Data : 0008 36 ae f9 d0 00 a6 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051848349251; Frame = 22
+Data : 0000 3e 2b 02 01 00 00 ad b5 
+Data : 0008 89 fb fe f4 1f 02 01 1a 
+Data : 0010 1b ff 75 00 42 04 01 01 
+Data : 0018 67 f4 fe fb 89 b5 ad f6 
+Data : 0020 fe fb 89 b5 ac 08 3e 00 
+Data : 0028 00 00 00 00 9c 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051848469307; Frame = 23
+Data : 0000 3e 1d 02 01 00 01 48 97 
+Data : 0008 2d 57 36 eb 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 35 
+Data : 0018 30 2e 30 34 34 33 a8 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051848470217; Frame = 24
+Data : 0000 3e 0c 02 01 04 01 48 97 
+Data : 0008 2d 57 36 eb 00 a8 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051848581174; Frame = 25
+Data : 0000 3e 1d 02 01 00 01 70 ed 
+Data : 0008 65 70 fd ff 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 36 
+Data : 0018 30 2e 30 33 39 33 ae 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051848582162; Frame = 26
+Data : 0000 3e 0c 02 01 04 01 70 ed 
+Data : 0008 65 70 fd ff 00 ae 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051848592246; Frame = 27
+Data : 0000 3e 2b 02 01 03 01 bd a3 
+Data : 0008 08 4f 97 01 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 4a 4a 49 
+Data : 0018 61 86 1e 46 8b 7b e4 17 
+Data : 0020 7f 94 95 6f 36 5f 12 82 
+Data : 0028 20 09 b9 df a2 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051848697300; Frame = 28
+Data : 0000 3e 2b 02 01 03 01 bd a3 
+Data : 0008 08 4f 97 01 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 4a 4a 49 
+Data : 0018 61 86 1e 46 8b 7b e4 17 
+Data : 0020 7f 94 95 6f 36 5f 12 82 
+Data : 0028 20 09 b9 df a0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051848709169; Frame = 29
+Data : 0000 3e 2b 02 01 03 01 a3 c9 
+Data : 0008 ec b8 c2 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 fd 4c 17 
+Data : 0018 ff 2b 2e 54 06 de 0c 78 
+Data : 0020 ea e8 0a ba 81 6a 85 60 
+Data : 0028 5f 72 e3 0b a8 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051848814224; Frame = 30
+Data : 0000 3e 1a 02 01 00 01 ea e4 
+Data : 0008 2c aa ca c7 0e 0a 09 41 
+Data : 0010 38 33 34 2e 30 32 33 30 
+Data : 0018 02 01 06 ac 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051848815163; Frame = 31
+Data : 0000 3e 0c 02 01 04 01 ea e4 
+Data : 0008 2c aa ca c7 00 ac 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051848825297; Frame = 32
+Data : 0000 3e 1d 02 01 00 01 49 6f 
+Data : 0008 c6 f3 92 e1 11 02 01 06 
+Data : 0010 0d 09 41 31 31 35 2d 33 
+Data : 0018 30 2e 30 35 39 32 ba 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051848826252; Frame = 33
+Data : 0000 3e 0c 02 01 04 01 49 6f 
+Data : 0008 c6 f3 92 e1 00 ba 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051849051243; Frame = 34
+Data : 0000 3e 1a 02 01 00 01 64 e2 
+Data : 0008 59 5e 81 c6 0e 02 01 06 
+Data : 0010 0a 09 41 38 33 35 2e 30 
+Data : 0018 31 32 33 b0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051849052221; Frame = 35
+Data : 0000 3e 0c 02 01 04 01 64 e2 
+Data : 0008 59 5e 81 c6 00 ae 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051849167306; Frame = 36
+Data : 0000 3e 1d 02 01 00 01 86 6e 
+Data : 0008 f7 b1 f3 f5 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 36 
+Data : 0018 30 2e 30 33 39 38 b0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051849168219; Frame = 37
+Data : 0000 3e 0c 02 01 04 01 86 6e 
+Data : 0008 f7 b1 f3 f5 00 b0 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051849170222; Frame = 38
+Data : 0000 3e 1d 02 01 00 01 c8 23 
+Data : 0008 99 62 81 ef 11 02 01 06 
+Data : 0010 0d 09 41 31 31 34 2d 30 
+Data : 0018 33 2e 30 34 38 31 a4 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051849171220; Frame = 39
+Data : 0000 3e 0c 02 01 04 01 c8 23 
+Data : 0008 99 62 81 ef 00 a4 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051849299240; Frame = 40
+Data : 0000 3e 1d 02 01 00 01 5d 1a 
+Data : 0008 43 02 02 d0 11 02 01 06 
+Data : 0010 0d 09 41 35 31 35 2d 32 
+Data : 0018 30 2e 34 34 32 32 b4 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051849300220; Frame = 41
+Data : 0000 3e 0c 02 01 04 01 5d 1a 
+Data : 0008 43 02 02 d0 00 b2 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051849412241; Frame = 42
+Data : 0000 3e 1d 02 01 00 01 3f 4b 
+Data : 0008 d6 2b 33 fb 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 35 
+Data : 0018 30 2e 30 34 36 30 a4 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051849413223; Frame = 43
+Data : 0000 3e 0c 02 01 04 01 3f 4b 
+Data : 0008 d6 2b 33 fb 00 a4 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051849536310; Frame = 44
+Data : 0000 3e 2b 02 01 03 01 94 da 
+Data : 0008 63 cd 88 55 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 55 14 62 
+Data : 0018 c4 b2 24 ca 79 be cb 0e 
+Data : 0020 0d 4e 06 6a 2e 62 c0 97 
+Data : 0028 7f c9 50 07 9e 
+HCI_ReadPacket: Type = Event; Length = 32; Tick = 13282051849646202; Frame = 45
+Data : 0000 3e 1e 02 01 00 01 05 0e 
+Data : 0008 a8 ae 44 79 12 02 01 06 
+Data : 0010 02 0a 08 0b ff 4c 00 10 
+Data : 0018 06 3d 1e dd 05 a0 ee 9e 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051849889308; Frame = 46
+Data : 0000 3e 1a 02 01 00 01 de 4e 
+Data : 0008 c2 eb d1 c4 0e 0a 09 41 
+Data : 0010 33 31 34 2e 30 35 34 32 
+Data : 0018 02 01 06 9e 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051849890216; Frame = 47
+Data : 0000 3e 0c 02 01 04 01 de 4e 
+Data : 0008 c2 eb d1 c4 00 a0 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051850110303; Frame = 48
+Data : 0000 3e 1a 02 01 00 01 aa 06 
+Data : 0008 d4 42 fd fc 0e 02 01 06 
+Data : 0010 0a 09 41 38 33 35 2e 30 
+Data : 0018 31 32 36 b8 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051850111217; Frame = 49
+Data : 0000 3e 0c 02 01 04 01 aa 06 
+Data : 0008 d4 42 fd fc 00 b8 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051850114184; Frame = 50
+Data : 0000 3e 2b 02 01 03 01 ec 17 
+Data : 0008 54 f5 59 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 a9 69 f6 
+Data : 0018 a6 f8 df 72 c1 dd 7f f8 
+Data : 0020 c8 e0 fe 1d ec 0c 25 30 
+Data : 0028 5f 7b 46 73 9e 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051850350280; Frame = 51
+Data : 0000 3e 1d 02 01 00 01 b0 b4 
+Data : 0008 05 e7 a9 c1 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 35 
+Data : 0018 30 2e 30 34 34 37 a8 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051850351189; Frame = 52
+Data : 0000 3e 0c 02 01 04 01 b0 b4 
+Data : 0008 05 e7 a9 c1 00 a6 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051850586315; Frame = 53
+Data : 0000 3e 2b 02 01 03 01 94 da 
+Data : 0008 63 cd 88 55 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 55 14 62 
+Data : 0018 c4 b2 24 ca 79 be cb 0e 
+Data : 0020 0d 4e 06 6a 2e 62 c0 97 
+Data : 0028 7f c9 50 07 9c 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051850593214; Frame = 54
+Data : 0000 3e 1a 02 01 00 01 75 ee 
+Data : 0008 da 0c cd d6 0e 02 01 06 
+Data : 0010 0a 09 41 38 33 35 2e 30 
+Data : 0018 31 31 35 c0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051850594189; Frame = 55
+Data : 0000 3e 0c 02 01 04 01 75 ee 
+Data : 0008 da 0c cd d6 00 c0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051850597181; Frame = 56
+Data : 0000 3e 2b 02 01 03 01 bd a3 
+Data : 0008 08 4f 97 01 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 4a 4a 49 
+Data : 0018 61 86 1e 46 8b 7b e4 17 
+Data : 0020 7f 94 95 6f 36 5f 12 82 
+Data : 0028 20 09 b9 df a6 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051850702259; Frame = 57
+Data : 0000 3e 2b 02 01 03 01 bd a3 
+Data : 0008 08 4f 97 01 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 4a 4a 49 
+Data : 0018 61 86 1e 46 8b 7b e4 17 
+Data : 0020 7f 94 95 6f 36 5f 12 82 
+Data : 0028 20 09 b9 df a2 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051850708294; Frame = 58
+Data : 0000 3e 1d 02 01 00 01 91 c4 
+Data : 0008 71 28 b6 d7 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 35 
+Data : 0018 30 2e 30 34 35 37 9c 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051850714215; Frame = 59
+Data : 0000 3e 2b 02 01 03 01 25 f4 
+Data : 0008 ce 67 21 54 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 34 fb df 
+Data : 0018 81 83 df 33 60 90 98 e9 
+Data : 0020 43 46 d0 56 a1 c0 d8 e0 
+Data : 0028 83 07 d7 61 c2 
+HCI_ReadPacket: Type = Event; Length = 32; Tick = 13282051850832174; Frame = 60
+Data : 0000 3e 1e 02 01 00 01 0e 31 
+Data : 0008 f1 57 74 7d 12 02 01 06 
+Data : 0010 02 0a 0c 0b ff 4c 00 10 
+Data : 0018 06 1e 1d 9c 49 ee 80 a0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051850833179; Frame = 61
+Data : 0000 3e 0c 02 01 04 01 0e 31 
+Data : 0008 f1 57 74 7d 00 a0 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051850835190; Frame = 62
+Data : 0000 3e 1d 02 01 00 01 99 12 
+Data : 0008 5b d9 e9 7e 11 02 01 06 
+Data : 0010 02 0a 0c 0a ff 4c 00 10 
+Data : 0018 05 1d 1c 99 ba 60 a0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051850836193; Frame = 63
+Data : 0000 3e 0c 02 01 04 01 99 12 
+Data : 0008 5b d9 e9 7e 00 a0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051850944306; Frame = 64
+Data : 0000 3e 2b 02 01 03 01 b1 3e 
+Data : 0008 2c fc a9 76 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 25 22 f7 
+Data : 0018 c9 32 02 fc ad d1 28 9c 
+Data : 0020 41 ce d2 87 59 46 89 6c 
+Data : 0028 aa 68 3d 6d a0 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051851055310; Frame = 65
+Data : 0000 3e 1a 02 01 00 01 02 95 
+Data : 0008 b5 3b b0 ca 0e 0a 09 41 
+Data : 0010 38 31 34 2e 31 39 39 33 
+Data : 0018 02 01 06 bc 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051851056215; Frame = 66
+Data : 0000 3e 0c 02 01 04 01 02 95 
+Data : 0008 b5 3b b0 ca 00 bc 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051851066170; Frame = 67
+Data : 0000 3e 2b 02 01 03 01 ec 17 
+Data : 0008 54 f5 59 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 a9 69 f6 
+Data : 0018 a6 f8 df 72 c1 dd 7f f8 
+Data : 0020 c8 e0 fe 1d ec 0c 25 30 
+Data : 0028 5f 7b 46 73 a6 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051851068190; Frame = 68
+Data : 0000 3e 1a 02 01 00 01 4a 47 
+Data : 0008 b3 bf cd d3 0e 0a 09 41 
+Data : 0010 38 30 34 2e 30 31 30 31 
+Data : 0018 02 01 06 a6 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051851069185; Frame = 69
+Data : 0000 3e 0c 02 01 04 01 4a 47 
+Data : 0008 b3 bf cd d3 00 a6 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051851421183; Frame = 70
+Data : 0000 3e 1a 02 01 00 01 86 3f 
+Data : 0008 e1 20 ce ee 0e 0a 09 41 
+Data : 0010 38 33 34 2e 30 32 31 36 
+Data : 0018 02 01 06 a6 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051851422215; Frame = 71
+Data : 0000 3e 0c 02 01 04 01 86 3f 
+Data : 0008 e1 20 ce ee 00 a6 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051851536221; Frame = 72
+Data : 0000 3e 1d 02 01 00 01 7d 32 
+Data : 0008 3a 6b a0 d7 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 35 
+Data : 0018 30 2e 30 34 33 39 9e 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051851537217; Frame = 73
+Data : 0000 3e 0c 02 01 04 01 7d 32 
+Data : 0008 3a 6b a0 d7 00 9e 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051851539212; Frame = 74
+Data : 0000 3e 1d 02 01 00 01 a4 8a 
+Data : 0008 6e f9 ee e3 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 38 
+Data : 0018 30 2e 30 34 30 37 9c 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051851540205; Frame = 75
+Data : 0000 3e 0c 02 01 04 01 a4 8a 
+Data : 0008 6e f9 ee e3 00 9c 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051851542189; Frame = 76
+Data : 0000 3e 1d 02 01 00 01 0e 02 
+Data : 0008 11 3a c4 c0 11 02 01 06 
+Data : 0010 0d 09 41 35 31 35 2d 36 
+Data : 0018 30 2e 30 30 34 33 ba 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051851543211; Frame = 77
+Data : 0000 3e 0c 02 01 04 01 0e 02 
+Data : 0008 11 3a c4 c0 00 ba 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051851545232; Frame = 78
+Data : 0000 3e 1d 02 01 00 01 61 73 
+Data : 0008 ab 1d 20 d0 11 02 01 06 
+Data : 0010 0d 09 41 31 30 34 2d 35 
+Data : 0018 33 2e 30 33 33 39 a6 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051851546188; Frame = 79
+Data : 0000 3e 0c 02 01 04 01 61 73 
+Data : 0008 ab 1d 20 d0 00 a6 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051851650213; Frame = 80
+Data : 0000 3e 2b 02 01 03 01 bd a3 
+Data : 0008 08 4f 97 01 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 4a 4a 49 
+Data : 0018 61 86 1e 46 8b 7b e4 17 
+Data : 0020 7f 94 95 6f 36 5f 12 82 
+Data : 0028 20 09 b9 df a6 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051851653195; Frame = 81
+Data : 0000 3e 2b 02 01 03 01 a3 c9 
+Data : 0008 ec b8 c2 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 fd 4c 17 
+Data : 0018 ff 2b 2e 54 06 de 0c 78 
+Data : 0020 ea e8 0a ba 81 6a 85 60 
+Data : 0028 5f 72 e3 0b 9e 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051851658289; Frame = 82
+Data : 0000 3e 1a 02 01 00 01 ca 99 
+Data : 0008 b1 c0 e3 ee 0e 02 01 06 
+Data : 0010 0a 09 41 31 30 35 2e 32 
+Data : 0018 32 33 34 b0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051851659203; Frame = 83
+Data : 0000 3e 0c 02 01 04 01 ca 99 
+Data : 0008 b1 c0 e3 ee 00 b0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051851773304; Frame = 84
+Data : 0000 3e 2b 02 01 03 01 25 f4 
+Data : 0008 ce 67 21 54 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 34 fb df 
+Data : 0018 81 83 df 33 60 90 98 e9 
+Data : 0020 43 46 d0 56 a1 c0 d8 e0 
+Data : 0028 83 07 d7 61 c2 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051851776295; Frame = 85
+Data : 0000 3e 1a 02 01 00 01 0c 01 
+Data : 0008 d4 cd 73 ce 0e 0a 09 41 
+Data : 0010 33 31 34 2e 30 37 32 39 
+Data : 0018 02 01 06 a2 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051851883198; Frame = 86
+Data : 0000 3e 1a 02 01 00 01 5d 8c 
+Data : 0008 87 74 2f cd 0e 0a 09 41 
+Data : 0010 33 31 34 2e 30 37 31 32 
+Data : 0018 02 01 06 b2 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051851884176; Frame = 87
+Data : 0000 3e 0c 02 01 04 01 5d 8c 
+Data : 0008 87 74 2f cd 00 b2 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051851890201; Frame = 88
+Data : 0000 3e 1a 02 01 00 01 94 04 
+Data : 0008 7a 6f e4 da 0e 0a 09 41 
+Data : 0010 38 33 34 2e 30 32 32 30 
+Data : 0018 02 01 06 a4 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051851891211; Frame = 89
+Data : 0000 3e 0c 02 01 04 01 94 04 
+Data : 0008 7a 6f e4 da 00 a4 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051851894216; Frame = 90
+Data : 0000 3e 2b 02 01 03 01 ec 17 
+Data : 0008 54 f5 59 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 a9 69 f6 
+Data : 0018 a6 f8 df 72 c1 dd 7f f8 
+Data : 0020 c8 e0 fe 1d ec 0c 25 30 
+Data : 0028 5f 7b 46 73 a2 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051852120239; Frame = 91
+Data : 0000 3e 1d 02 01 00 01 38 e6 
+Data : 0008 ae 7b 18 d8 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 35 
+Data : 0018 30 2e 30 34 33 37 aa 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051852121174; Frame = 92
+Data : 0000 3e 0c 02 01 04 01 38 e6 
+Data : 0008 ae 7b 18 d8 00 aa 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051852356302; Frame = 93
+Data : 0000 3e 1a 02 01 00 01 97 dd 
+Data : 0008 38 d3 12 d2 0e 0a 09 41 
+Data : 0010 33 31 34 2e 30 37 35 35 
+Data : 0018 02 01 06 b6 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051852357212; Frame = 94
+Data : 0000 3e 0c 02 01 04 01 97 dd 
+Data : 0008 38 d3 12 d2 00 b6 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051852369216; Frame = 95
+Data : 0000 3e 2b 02 01 00 01 4e d9 
+Data : 0008 24 af 73 c8 1f 02 01 06 
+Data : 0010 1b 09 41 35 35 35 2d 32 
+Data : 0018 30 2e 30 32 35 36 20 f0 
+Data : 0020 9f 8d bf 2c 20 d0 9e d0 
+Data : 0028 b1 d1 80 d0 c0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051852370200; Frame = 96
+Data : 0000 3e 0c 02 01 04 01 4e d9 
+Data : 0008 24 af 73 c8 00 c0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051852596312; Frame = 97
+Data : 0000 3e 2b 02 01 03 01 a3 c9 
+Data : 0008 ec b8 c2 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 fd 4c 17 
+Data : 0018 ff 2b 2e 54 06 de 0c 78 
+Data : 0020 ea e8 0a ba 81 6a 85 60 
+Data : 0028 5f 72 e3 0b a6 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051852599301; Frame = 98
+Data : 0000 3e 2b 02 01 03 01 bd a3 
+Data : 0008 08 4f 97 01 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 4a 4a 49 
+Data : 0018 61 86 1e 46 8b 7b e4 17 
+Data : 0020 7f 94 95 6f 36 5f 12 82 
+Data : 0028 20 09 b9 df a0 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051852601189; Frame = 99
+Data : 0000 3e 1d 02 01 00 01 4b e2 
+Data : 0008 b9 1d ed d9 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 35 
+Data : 0018 30 2e 30 34 33 36 a6 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051852602212; Frame = 100
+Data : 0000 3e 0c 02 01 04 01 4b e2 
+Data : 0008 b9 1d ed d9 00 a6 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051852714201; Frame = 101
+Data : 0000 3e 2b 02 01 03 01 94 da 
+Data : 0008 63 cd 88 55 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 55 14 62 
+Data : 0018 c4 b2 24 ca 79 be cb 0e 
+Data : 0020 0d 4e 06 6a 2e 62 c0 97 
+Data : 0028 7f c9 50 07 9e 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051852716217; Frame = 102
+Data : 0000 3e 1a 02 01 00 01 b0 11 
+Data : 0008 6e dc c4 f7 0e 02 01 06 
+Data : 0010 0a 09 41 38 33 35 2e 30 
+Data : 0018 31 32 34 b8 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051852717189; Frame = 103
+Data : 0000 3e 0c 02 01 04 01 b0 11 
+Data : 0008 6e dc c4 f7 00 b8 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051852720231; Frame = 104
+Data : 0000 3e 2b 02 01 03 01 b1 3e 
+Data : 0008 2c fc a9 76 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 25 22 f7 
+Data : 0018 c9 32 02 fc ad d1 28 9c 
+Data : 0020 41 ce d2 87 59 46 89 6c 
+Data : 0028 aa 68 3d 6d a0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051852725294; Frame = 105
+Data : 0000 3e 2b 02 01 03 01 ec 17 
+Data : 0008 54 f5 59 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 a9 69 f6 
+Data : 0018 a6 f8 df 72 c1 dd 7f f8 
+Data : 0020 c8 e0 fe 1d ec 0c 25 30 
+Data : 0028 5f 7b 46 73 9e 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051852727212; Frame = 106
+Data : 0000 3e 1d 02 01 00 01 9e 74 
+Data : 0008 76 f3 29 e1 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 36 
+Data : 0018 30 2e 30 30 32 35 b2 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051852728212; Frame = 107
+Data : 0000 3e 0c 02 01 04 01 9e 74 
+Data : 0008 76 f3 29 e1 00 b2 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051852731300; Frame = 108
+Data : 0000 3e 2b 02 01 03 01 25 f4 
+Data : 0008 ce 67 21 54 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 34 fb df 
+Data : 0018 81 83 df 33 60 90 98 e9 
+Data : 0020 43 46 d0 56 a1 c0 d8 e0 
+Data : 0028 83 07 d7 61 b8 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051852830303; Frame = 109
+Data : 0000 3e 2b 02 01 03 01 ec 17 
+Data : 0008 54 f5 59 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 a9 69 f6 
+Data : 0018 a6 f8 df 72 c1 dd 7f f8 
+Data : 0020 c8 e0 fe 1d ec 0c 25 30 
+Data : 0028 5f 7b 46 73 a4 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051852833295; Frame = 110
+Data : 0000 3e 2b 02 01 03 01 25 f4 
+Data : 0008 ce 67 21 54 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 34 fb df 
+Data : 0018 81 83 df 33 60 90 98 e9 
+Data : 0020 43 46 d0 56 a1 c0 d8 e0 
+Data : 0028 83 07 d7 61 c2 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051852945176; Frame = 111
+Data : 0000 3e 1a 02 01 00 01 56 c1 
+Data : 0008 9d b5 10 f3 0e 02 01 06 
+Data : 0010 0a 09 41 38 33 35 2e 30 
+Data : 0018 31 31 33 b0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051852946214; Frame = 112
+Data : 0000 3e 0c 02 01 04 01 56 c1 
+Data : 0008 9d b5 10 f3 00 b0 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051852949210; Frame = 113
+Data : 0000 3e 1d 02 01 00 01 b9 a6 
+Data : 0008 8d e1 f7 fc 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 36 
+Data : 0018 30 2e 30 33 39 36 a4 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051852950211; Frame = 114
+Data : 0000 3e 0c 02 01 04 01 b9 a6 
+Data : 0008 8d e1 f7 fc 00 a4 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051852961302; Frame = 115
+Data : 0000 3e 1d 02 01 00 01 75 a4 
+Data : 0008 ea 8a 50 e9 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 39 
+Data : 0018 30 2e 34 38 31 35 c0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051852962212; Frame = 116
+Data : 0000 3e 0c 02 01 04 01 75 a4 
+Data : 0008 ea 8a 50 e9 00 c0 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051853185204; Frame = 117
+Data : 0000 3e 1d 02 01 00 01 74 96 
+Data : 0008 52 0e 75 e1 11 0d 09 41 
+Data : 0010 31 31 34 2d 31 30 2e 30 
+Data : 0018 32 35 36 02 01 06 b8 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051853186162; Frame = 118
+Data : 0000 3e 0c 02 01 04 01 74 96 
+Data : 0008 52 0e 75 e1 00 b8 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051853424319; Frame = 119
+Data : 0000 3e 1a 02 01 00 01 1b f6 
+Data : 0008 a3 43 f6 ea 0e 02 01 06 
+Data : 0010 0a 09 41 38 33 35 2e 30 
+Data : 0018 31 31 38 bc 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051853425226; Frame = 120
+Data : 0000 3e 0c 02 01 04 01 1b f6 
+Data : 0008 a3 43 f6 ea 00 bc 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051853434181; Frame = 121
+Data : 0000 3e 2b 02 01 03 01 bd a3 
+Data : 0008 08 4f 97 01 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 4a 4a 49 
+Data : 0018 61 86 1e 46 8b 7b e4 17 
+Data : 0020 7f 94 95 6f 36 5f 12 82 
+Data : 0028 20 09 b9 df a4 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051853539195; Frame = 122
+Data : 0000 3e 2b 02 01 03 01 bd a3 
+Data : 0008 08 4f 97 01 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 4a 4a 49 
+Data : 0018 61 86 1e 46 8b 7b e4 17 
+Data : 0020 7f 94 95 6f 36 5f 12 82 
+Data : 0028 20 09 b9 df a4 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051853541158; Frame = 123
+Data : 0000 3e 1a 02 01 00 01 d0 c7 
+Data : 0008 13 db a1 ec 0e 0a 09 41 
+Data : 0010 31 30 34 2e 31 35 32 38 
+Data : 0018 02 01 06 b0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051853542184; Frame = 124
+Data : 0000 3e 0c 02 01 04 01 d0 c7 
+Data : 0008 13 db a1 ec 00 b0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051853552234; Frame = 125
+Data : 0000 3e 2b 02 01 03 01 25 f4 
+Data : 0008 ce 67 21 54 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 34 fb df 
+Data : 0018 81 83 df 33 60 90 98 e9 
+Data : 0020 43 46 d0 56 a1 c0 d8 e0 
+Data : 0028 83 07 d7 61 c2 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051853661224; Frame = 126
+Data : 0000 3e 2b 02 01 03 01 25 f4 
+Data : 0008 ce 67 21 54 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 34 fb df 
+Data : 0018 81 83 df 33 60 90 98 e9 
+Data : 0020 43 46 d0 56 a1 c0 d8 e0 
+Data : 0028 83 07 d7 61 be 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051853664200; Frame = 127
+Data : 0000 3e 2b 02 01 03 01 ec 17 
+Data : 0008 54 f5 59 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 a9 69 f6 
+Data : 0018 a6 f8 df 72 c1 dd 7f f8 
+Data : 0020 c8 e0 fe 1d ec 0c 25 30 
+Data : 0028 5f 7b 46 73 9e 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051853670222; Frame = 128
+Data : 0000 3e 2b 02 01 03 01 b1 3e 
+Data : 0008 2c fc a9 76 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 25 22 f7 
+Data : 0018 c9 32 02 fc ad d1 28 9c 
+Data : 0020 41 ce d2 87 59 46 89 6c 
+Data : 0028 aa 68 3d 6d a2 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051853781167; Frame = 129
+Data : 0000 3e 2b 02 01 03 01 b1 3e 
+Data : 0008 2c fc a9 76 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 25 22 f7 
+Data : 0018 c9 32 02 fc ad d1 28 9c 
+Data : 0020 41 ce d2 87 59 46 89 6c 
+Data : 0028 aa 68 3d 6d a0 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051853786242; Frame = 130
+Data : 0000 3e 1a 02 01 00 01 c6 a6 
+Data : 0008 ec f3 d6 e3 0e 02 01 06 
+Data : 0010 0a 09 41 38 33 35 2e 30 
+Data : 0018 31 31 36 ba 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051853787240; Frame = 131
+Data : 0000 3e 0c 02 01 04 01 c6 a6 
+Data : 0008 ec f3 d6 e3 00 ba 
+HCI_ReadPacket: Type = Event; Length = 22; Tick = 13282051853896310; Frame = 132
+Data : 0000 3e 14 02 01 03 01 78 4b 
+Data : 0008 c7 9e e9 f0 08 07 ff 4c 
+Data : 0010 00 12 02 00 02 a0 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051853901221; Frame = 133
+Data : 0000 3e 1d 02 01 00 01 71 69 
+Data : 0008 cd fa fb d1 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 35 
+Data : 0018 30 2e 30 34 35 33 a4 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051853902162; Frame = 134
+Data : 0000 3e 0c 02 01 04 01 71 69 
+Data : 0008 cd fa fb d1 00 a4 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051854129163; Frame = 135
+Data : 0000 3e 1d 02 01 00 01 85 7d 
+Data : 0008 94 04 23 f0 11 02 01 06 
+Data : 0010 0d 09 41 31 30 34 2d 35 
+Data : 0018 33 2e 30 33 37 36 be 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051854130184; Frame = 136
+Data : 0000 3e 0c 02 01 04 01 85 7d 
+Data : 0008 94 04 23 f0 00 be 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051854365301; Frame = 137
+Data : 0000 3e 1d 02 01 00 01 8b 83 
+Data : 0008 62 54 5f de 11 02 01 06 
+Data : 0010 0d 09 41 31 31 34 2d 33 
+Data : 0018 33 2e 30 35 38 36 a2 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051854366212; Frame = 138
+Data : 0000 3e 0c 02 01 04 01 8b 83 
+Data : 0008 62 54 5f de 00 a2 
+HCI_ReadPacket: Type = Event; Length = 32; Tick = 13282051854370197; Frame = 139
+Data : 0000 3e 1e 02 01 00 01 0e 31 
+Data : 0008 f1 57 74 7d 12 02 01 06 
+Data : 0010 02 0a 0c 0b ff 4c 00 10 
+Data : 0018 06 1e 1d 9c 49 ee 80 9e 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051854371165; Frame = 140
+Data : 0000 3e 0c 02 01 04 01 0e 31 
+Data : 0008 f1 57 74 7d 00 9e 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051854490196; Frame = 141
+Data : 0000 3e 2b 02 01 03 01 25 f4 
+Data : 0008 ce 67 21 54 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 34 fb df 
+Data : 0018 81 83 df 33 60 90 98 e9 
+Data : 0020 43 46 d0 56 a1 c0 d8 e0 
+Data : 0028 83 07 d7 61 b8 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051854613328; Frame = 142
+Data : 0000 3e 1d 02 01 00 01 46 d3 
+Data : 0008 d6 15 65 c3 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 38 
+Data : 0018 30 2e 30 34 32 32 ae 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051854614209; Frame = 143
+Data : 0000 3e 0c 02 01 04 01 46 d3 
+Data : 0008 d6 15 65 c3 00 ae 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051854724196; Frame = 144
+Data : 0000 3e 2b 02 01 03 01 ec 17 
+Data : 0008 54 f5 59 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 a9 69 f6 
+Data : 0018 a6 f8 df 72 c1 dd 7f f8 
+Data : 0020 c8 e0 fe 1d ec 0c 25 30 
+Data : 0028 5f 7b 46 73 a2 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051854842218; Frame = 145
+Data : 0000 3e 1d 02 01 00 01 fd 36 
+Data : 0008 5e d1 6a d8 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 38 
+Data : 0018 30 2e 30 34 31 31 a4 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051854843209; Frame = 146
+Data : 0000 3e 0c 02 01 04 01 fd 36 
+Data : 0008 5e d1 6a d8 00 a4 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051854845206; Frame = 147
+Data : 0000 3e 1d 02 01 00 01 46 a7 
+Data : 0008 d6 92 42 da 11 02 01 06 
+Data : 0010 0d 09 41 31 30 34 2d 35 
+Data : 0018 33 2e 30 33 32 37 9e 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051854850293; Frame = 148
+Data : 0000 3e 1d 02 01 00 01 25 dd 
+Data : 0008 2a c0 3c f5 11 02 01 06 
+Data : 0010 0d 09 41 31 30 35 2d 34 
+Data : 0018 30 2e 39 39 39 39 c6 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051854851222; Frame = 149
+Data : 0000 3e 0c 02 01 04 01 25 dd 
+Data : 0008 2a c0 3c f5 00 c6 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051854959251; Frame = 150
+Data : 0000 3e 1d 02 01 00 01 77 62 
+Data : 0008 bc ce ef ed 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 38 
+Data : 0018 30 2e 30 34 32 34 b0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051854960227; Frame = 151
+Data : 0000 3e 0c 02 01 04 01 77 62 
+Data : 0008 bc ce ef ed 00 b0 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051855200219; Frame = 152
+Data : 0000 3e 1a 02 01 00 01 e2 c5 
+Data : 0008 87 96 f8 ce 0e 02 01 06 
+Data : 0010 0a 09 41 38 33 35 2e 30 
+Data : 0018 31 32 37 a6 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051855434220; Frame = 153
+Data : 0000 3e 2b 02 01 03 01 a3 c9 
+Data : 0008 ec b8 c2 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 fd 4c 17 
+Data : 0018 ff 2b 2e 54 06 de 0c 78 
+Data : 0020 ea e8 0a ba 81 6a 85 60 
+Data : 0028 5f 72 e3 0b aa 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051855439209; Frame = 154
+Data : 0000 3e 2b 02 01 03 01 25 f4 
+Data : 0008 ce 67 21 54 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 34 fb df 
+Data : 0018 81 83 df 33 60 90 98 e9 
+Data : 0020 43 46 d0 56 a1 c0 d8 e0 
+Data : 0028 83 07 d7 61 be 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051855441171; Frame = 155
+Data : 0000 3e 1d 02 01 00 01 99 12 
+Data : 0008 5b d9 e9 7e 11 02 01 06 
+Data : 0010 02 0a 0c 0a ff 4c 00 10 
+Data : 0018 05 1d 1c 99 ba 60 a4 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051855442167; Frame = 156
+Data : 0000 3e 0c 02 01 04 01 99 12 
+Data : 0008 5b d9 e9 7e 00 a6 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051855548190; Frame = 157
+Data : 0000 3e 2b 02 01 03 01 b1 3e 
+Data : 0008 2c fc a9 76 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 25 22 f7 
+Data : 0018 c9 32 02 fc ad d1 28 9c 
+Data : 0020 41 ce d2 87 59 46 89 6c 
+Data : 0028 aa 68 3d 6d a0 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051855553186; Frame = 158
+Data : 0000 3e 1d 02 01 00 01 fa 9a 
+Data : 0008 f4 96 ae db 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 38 
+Data : 0018 30 2e 30 34 30 38 b0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051855554183; Frame = 159
+Data : 0000 3e 0c 02 01 04 01 fa 9a 
+Data : 0008 f4 96 ae db 00 b2 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051855674169; Frame = 160
+Data : 0000 3e 1d 02 01 00 01 64 b5 
+Data : 0008 b6 72 7c f1 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 35 
+Data : 0018 30 2e 30 34 33 33 a4 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051855679301; Frame = 161
+Data : 0000 3e 1d 02 01 00 01 01 e4 
+Data : 0008 76 d1 e4 ff 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 35 
+Data : 0018 30 2e 30 34 34 32 a8 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051855788170; Frame = 162
+Data : 0000 3e 0c 02 01 04 01 5a 2b 
+Data : 0008 41 95 43 6b 00 9e 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051855790164; Frame = 163
+Data : 0000 3e 1d 02 01 00 01 37 ec 
+Data : 0008 ba 5f 0f c3 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 35 
+Data : 0018 30 2e 30 34 34 35 a2 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051855791166; Frame = 164
+Data : 0000 3e 0c 02 01 04 01 37 ec 
+Data : 0008 ba 5f 0f c3 00 a2 
+HCI_ReadPacket: Type = Event; Length = 22; Tick = 13282051855905299; Frame = 165
+Data : 0000 3e 14 02 01 03 01 78 4b 
+Data : 0008 c7 9e e9 f0 08 07 ff 4c 
+Data : 0010 00 12 02 00 02 a0 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051856029303; Frame = 166
+Data : 0000 3e 1d 02 01 00 01 ba 4a 
+Data : 0008 dd c1 88 ef 11 02 01 06 
+Data : 0010 0d 09 41 31 30 34 2d 30 
+Data : 0018 33 2e 32 32 32 31 b6 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051856030210; Frame = 167
+Data : 0000 3e 0c 02 01 04 01 ba 4a 
+Data : 0008 dd c1 88 ef 00 b6 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051856147276; Frame = 168
+Data : 0000 3e 1d 02 01 00 01 f8 f1 
+Data : 0008 8d 35 95 fe 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 35 
+Data : 0018 30 2e 30 34 35 38 a4 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051856148207; Frame = 169
+Data : 0000 3e 0c 02 01 04 01 f8 f1 
+Data : 0008 8d 35 95 fe 00 a4 
+HCI_ReadPacket: Type = Event; Length = 43; Tick = 13282051856259241; Frame = 170
+Data : 0000 3e 29 02 01 03 01 0c c4 
+Data : 0008 a3 d5 c9 2c 1d 1c ff 06 
+Data : 0010 00 01 09 21 0a 89 63 8a 
+Data : 0018 b8 70 e4 4c 41 50 54 4f 
+Data : 0020 50 2d 4a 4b 48 4d 56 4a 
+Data : 0028 49 49 9e 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051856264302; Frame = 171
+Data : 0000 3e 1d 02 01 00 01 24 e6 
+Data : 0008 d0 8d 04 de 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 38 
+Data : 0018 30 2e 30 34 30 35 a8 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051856265210; Frame = 172
+Data : 0000 3e 0c 02 01 04 01 24 e6 
+Data : 0008 d0 8d 04 de 00 a8 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051856383299; Frame = 173
+Data : 0000 3e 2b 02 01 03 01 25 f4 
+Data : 0008 ce 67 21 54 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 34 fb df 
+Data : 0018 81 83 df 33 60 90 98 e9 
+Data : 0020 43 46 d0 56 a1 c0 d8 e0 
+Data : 0028 83 07 d7 61 c2 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051856489307; Frame = 174
+Data : 0000 3e 1d 02 01 00 01 f3 0e 
+Data : 0008 49 f0 a0 e4 11 02 01 06 
+Data : 0010 0d 09 41 31 30 34 2d 35 
+Data : 0018 30 2e 30 30 30 33 a8 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051856490208; Frame = 175
+Data : 0000 3e 0c 02 01 04 01 f3 0e 
+Data : 0008 49 f0 a0 e4 00 a8 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051856503254; Frame = 176
+Data : 0000 3e 1a 02 01 00 01 54 29 
+Data : 0008 22 bd ee d2 0e 0a 09 41 
+Data : 0010 38 33 34 2e 30 32 33 31 
+Data : 0018 02 01 06 9e 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051856504207; Frame = 177
+Data : 0000 3e 0c 02 01 04 01 54 29 
+Data : 0008 22 bd ee d2 00 9e 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051856618304; Frame = 178
+Data : 0000 3e 2b 02 01 03 01 ec 17 
+Data : 0008 54 f5 59 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 a9 69 f6 
+Data : 0018 a6 f8 df 72 c1 dd 7f f8 
+Data : 0020 c8 e0 fe 1d ec 0c 25 30 
+Data : 0028 5f 7b 46 73 a0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051856621289; Frame = 179
+Data : 0000 3e 2b 02 01 03 01 94 da 
+Data : 0008 63 cd 88 55 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 55 14 62 
+Data : 0018 c4 b2 24 ca 79 be cb 0e 
+Data : 0020 0d 4e 06 6a 2e 62 c0 97 
+Data : 0028 7f c9 50 07 9e 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051856968300; Frame = 180
+Data : 0000 3e 2b 02 01 03 01 bd a3 
+Data : 0008 08 4f 97 01 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 4a 4a 49 
+Data : 0018 61 86 1e 46 8b 7b e4 17 
+Data : 0020 7f 94 95 6f 36 5f 12 82 
+Data : 0028 20 09 b9 df a6 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051856973291; Frame = 181
+Data : 0000 3e 1d 02 01 00 01 30 30 
+Data : 0008 a1 6e 0b fc 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 35 
+Data : 0018 30 2e 30 34 34 30 a0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051856974208; Frame = 182
+Data : 0000 3e 0c 02 01 04 01 30 30 
+Data : 0008 a1 6e 0b fc 00 a0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051857201218; Frame = 183
+Data : 0000 3e 2b 02 01 03 01 a3 c9 
+Data : 0008 ec b8 c2 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 fd 4c 17 
+Data : 0018 ff 2b 2e 54 06 de 0c 78 
+Data : 0020 ea e8 0a ba 81 6a 85 60 
+Data : 0028 5f 72 e3 0b a6 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051857204282; Frame = 184
+Data : 0000 3e 2b 02 01 03 01 25 f4 
+Data : 0008 ce 67 21 54 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 34 fb df 
+Data : 0018 81 83 df 33 60 90 98 e9 
+Data : 0020 43 46 d0 56 a1 c0 d8 e0 
+Data : 0028 83 07 d7 61 be 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051857328164; Frame = 185
+Data : 0000 3e 2b 02 01 03 01 b1 3e 
+Data : 0008 2c fc a9 76 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 25 22 f7 
+Data : 0018 c9 32 02 fc ad d1 28 9c 
+Data : 0020 41 ce d2 87 59 46 89 6c 
+Data : 0028 aa 68 3d 6d a0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051857450297; Frame = 186
+Data : 0000 3e 2b 02 01 03 01 ec 17 
+Data : 0008 54 f5 59 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 a9 69 f6 
+Data : 0018 a6 f8 df 72 c1 dd 7f f8 
+Data : 0020 c8 e0 fe 1d ec 0c 25 30 
+Data : 0028 5f 7b 46 73 a0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051857554300; Frame = 187
+Data : 0000 3e 2b 02 01 03 01 ec 17 
+Data : 0008 54 f5 59 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 a9 69 f6 
+Data : 0018 a6 f8 df 72 c1 dd 7f f8 
+Data : 0020 c8 e0 fe 1d ec 0c 25 30 
+Data : 0028 5f 7b 46 73 9a 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051857557288; Frame = 188
+Data : 0000 3e 1d 02 01 00 01 bb a6 
+Data : 0008 21 02 e1 e7 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 38 
+Data : 0018 30 2e 30 34 31 37 ac 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051857558206; Frame = 189
+Data : 0000 3e 0c 02 01 04 01 bb a6 
+Data : 0008 21 02 e1 e7 00 aa 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051857567254; Frame = 190
+Data : 0000 3e 1d 02 01 00 01 55 63 
+Data : 0008 7c f0 17 ea 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 36 
+Data : 0018 30 2e 30 33 39 34 b0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051857568206; Frame = 191
+Data : 0000 3e 0c 02 01 04 01 55 63 
+Data : 0008 7c f0 17 ea 00 b0 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051857907263; Frame = 192
+Data : 0000 3e 1d 02 01 00 01 c1 78 
+Data : 0008 93 c2 61 f6 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 36 
+Data : 0018 30 2e 30 34 30 32 ac 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051857908206; Frame = 193
+Data : 0000 3e 0c 02 01 04 01 c1 78 
+Data : 0008 93 c2 61 f6 00 ac 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051857919300; Frame = 194
+Data : 0000 3e 1d 02 01 00 01 46 bf 
+Data : 0008 d7 e3 25 f1 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 38 
+Data : 0018 30 2e 30 34 31 32 ae 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051857920209; Frame = 195
+Data : 0000 3e 0c 02 01 04 01 46 bf 
+Data : 0008 d7 e3 25 f1 00 ac 
+HCI_ReadPacket: Type = Event; Length = 43; Tick = 13282051858033275; Frame = 196
+Data : 0000 3e 29 02 01 03 01 0c c4 
+Data : 0008 a3 d5 c9 2c 1d 1c ff 06 
+Data : 0010 00 01 09 21 0a 89 63 8a 
+Data : 0018 b8 70 e4 4c 41 50 54 4f 
+Data : 0020 50 2d 4a 4b 48 4d 56 4a 
+Data : 0028 49 49 9e 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051858036296; Frame = 197
+Data : 0000 3e 2b 02 01 03 01 a3 c9 
+Data : 0008 ec b8 c2 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 fd 4c 17 
+Data : 0018 ff 2b 2e 54 06 de 0c 78 
+Data : 0020 ea e8 0a ba 81 6a 85 60 
+Data : 0028 5f 72 e3 0b 9c 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051858039294; Frame = 198
+Data : 0000 3e 2b 02 01 03 01 25 f4 
+Data : 0008 ce 67 21 54 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 34 fb df 
+Data : 0018 81 83 df 33 60 90 98 e9 
+Data : 0020 43 46 d0 56 a1 c0 d8 e0 
+Data : 0028 83 07 d7 61 ba 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051858149304; Frame = 199
+Data : 0000 3e 2b 02 01 03 01 25 f4 
+Data : 0008 ce 67 21 54 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 34 fb df 
+Data : 0018 81 83 df 33 60 90 98 e9 
+Data : 0020 43 46 d0 56 a1 c0 d8 e0 
+Data : 0028 83 07 d7 61 c2 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051858152289; Frame = 200
+Data : 0000 3e 1d 02 01 00 01 d4 f0 
+Data : 0008 04 b3 d1 ca 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 38 
+Data : 0018 30 2e 30 34 30 34 ae 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051858153209; Frame = 201
+Data : 0000 3e 0c 02 01 04 01 d4 f0 
+Data : 0008 04 b3 d1 ca 00 ae 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051858155213; Frame = 202
+Data : 0000 3e 1a 02 01 00 01 ea d6 
+Data : 0008 2b f8 21 e5 0e 0a 09 41 
+Data : 0010 33 31 34 2e 30 35 33 35 
+Data : 0018 02 01 06 9e 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051858156176; Frame = 203
+Data : 0000 3e 0c 02 01 04 01 ea d6 
+Data : 0008 2b f8 21 e5 00 9e 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051858158178; Frame = 204
+Data : 0000 3e 1d 02 01 00 01 99 12 
+Data : 0008 5b d9 e9 7e 11 02 01 06 
+Data : 0010 02 0a 0c 0a ff 4c 00 10 
+Data : 0018 05 1d 1c 99 ba 60 9c 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051858275306; Frame = 205
+Data : 0000 3e 2b 02 01 03 01 b1 3e 
+Data : 0008 2c fc a9 76 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 25 22 f7 
+Data : 0018 c9 32 02 fc ad d1 28 9c 
+Data : 0020 41 ce d2 87 59 46 89 6c 
+Data : 0028 aa 68 3d 6d a2 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051858277163; Frame = 206
+Data : 0000 3e 1d 02 01 00 01 93 6e 
+Data : 0008 2c 9c 7e cd 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 38 
+Data : 0018 30 2e 30 34 32 30 b8 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051858278161; Frame = 207
+Data : 0000 3e 0c 02 01 04 01 93 6e 
+Data : 0008 2c 9c 7e cd 00 b8 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051858396190; Frame = 208
+Data : 0000 3e 2b 02 01 03 01 ec 17 
+Data : 0008 54 f5 59 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 a9 69 f6 
+Data : 0018 a6 f8 df 72 c1 dd 7f f8 
+Data : 0020 c8 e0 fe 1d ec 0c 25 30 
+Data : 0028 5f 7b 46 73 a2 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051858500263; Frame = 209
+Data : 0000 3e 1d 02 01 00 01 31 73 
+Data : 0008 0f c5 64 d0 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 38 
+Data : 0018 30 2e 30 34 32 31 b0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051858501155; Frame = 210
+Data : 0000 3e 0c 02 01 04 01 31 73 
+Data : 0008 0f c5 64 d0 00 b0 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051858740296; Frame = 211
+Data : 0000 3e 2b 02 01 03 01 bd a3 
+Data : 0008 08 4f 97 01 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 4a 4a 49 
+Data : 0018 61 86 1e 46 8b 7b e4 17 
+Data : 0020 7f 94 95 6f 36 5f 12 82 
+Data : 0028 20 09 b9 df a6 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051858745181; Frame = 212
+Data : 0000 3e 1d 02 01 00 01 c3 87 
+Data : 0008 fb d4 1d d8 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 38 
+Data : 0018 30 2e 30 34 30 39 ae 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051858746175; Frame = 213
+Data : 0000 3e 0c 02 01 04 01 c3 87 
+Data : 0008 fb d4 1d d8 00 b0 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051858858294; Frame = 214
+Data : 0000 3e 1d 02 01 00 01 2b e8 
+Data : 0008 2f d9 29 d1 11 02 01 06 
+Data : 0010 0d 09 41 35 35 35 2d 36 
+Data : 0018 30 2e 30 30 32 33 d6 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051858859215; Frame = 215
+Data : 0000 3e 0c 02 01 04 01 2b e8 
+Data : 0008 2f d9 29 d1 00 d6 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051858972295; Frame = 216
+Data : 0000 3e 1d 02 01 00 01 99 12 
+Data : 0008 5b d9 e9 7e 11 02 01 06 
+Data : 0010 02 0a 0c 0a ff 4c 00 10 
+Data : 0018 05 1d 1c 99 ba 60 a0 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051858973208; Frame = 217
+Data : 0000 3e 0c 02 01 04 01 99 12 
+Data : 0008 5b d9 e9 7e 00 a0 
+HCI_ReadPacket: Type = Event; Length = 28; Tick = 13282051858975199; Frame = 218
+Data : 0000 3e 1a 02 01 00 01 29 9a 
+Data : 0008 f4 d3 11 d4 0e 02 01 06 
+Data : 0010 0a 09 41 38 33 35 2e 30 
+Data : 0018 31 32 38 ba 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051858976208; Frame = 219
+Data : 0000 3e 0c 02 01 04 01 29 9a 
+Data : 0008 f4 d3 11 d4 00 ba 
+HCI_ReadPacket: Type = Event; Length = 45; Tick = 13282051858980197; Frame = 220
+Data : 0000 3e 2b 02 01 03 01 a3 c9 
+Data : 0008 ec b8 c2 1f 1f 1e ff 06 
+Data : 0010 00 01 09 20 02 fd 4c 17 
+Data : 0018 ff 2b 2e 54 06 de 0c 78 
+Data : 0020 ea e8 0a ba 81 6a 85 60 
+Data : 0028 5f 72 e3 0b a6 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051859097185; Frame = 221
+Data : 0000 3e 1d 02 01 00 01 b9 9a 
+Data : 0008 f5 58 12 e7 11 02 01 06 
+Data : 0010 0d 09 41 33 33 35 2d 33 
+Data : 0018 30 2e 30 30 30 30 d8 
+HCI_ReadPacket: Type = Event; Length = 14; Tick = 13282051859098183; Frame = 222
+Data : 0000 3e 0c 02 01 04 01 b9 9a 
+Data : 0008 f5 58 12 e7 00 d8 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051859100124; Frame = 223
+Data : 0000 0c 20 02 00 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051859102184; Frame = 224
+Data : 0000 0e 04 02 0c 20 00 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051859102198; Frame = 225
+Data : 0000 f0 fc 02 05 01 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051859104177; Frame = 226
+Data : 0000 0e 05 02 f0 fc 00 05 
+HCI_WritePacket: Type = Command; Length = 10; Tick = 13282051859104230; Frame = 227
+Data : 0000 0b 20 07 00 4c 02 3c 00 
+Data : 0008 00 01 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051859106206; Frame = 228
+Data : 0000 0e 04 02 0b 20 00 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051859106256; Frame = 229
+Data : 0000 0c 20 02 01 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051859108175; Frame = 230
+Data : 0000 0e 04 02 0c 20 00 
+HCI_WritePacket: Type = Command; Length = 28; Tick = 13282051859204379; Frame = 231
+Data : 0000 0d 20 19 12 00 12 00 00 
+Data : 0008 01 b9 9a f5 58 12 e7 00 
+Data : 0010 16 00 30 00 00 00 c0 03 
+Data : 0018 00 00 00 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051859207288; Frame = 232
+Data : 0000 0f 04 00 02 0d 20 
+HCI_ReadPacket: Type = Event; Length = 21; Tick = 13282051862103217; Frame = 233
+Data : 0000 3e 13 01 00 10 00 00 01 
+Data : 0008 b9 9a f5 58 12 e7 30 00 
+Data : 0010 00 00 c0 03 00 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051862103251; Frame = 234
+Data : 0000 15 20 02 10 00 
+HCI_ReadPacket: Type = Event; Length = 13; Tick = 13282051862107305; Frame = 235
+Data : 0000 0e 0b 02 15 20 00 10 00 
+Data : 0008 ff ff ff ff 1f 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051862107747; Frame = 236
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 02 0f 02 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051862134216; Frame = 237
+Data : 0000 13 05 01 10 00 01 00 
+HCI_WritePacket: Type = AclData; Length = 8; Tick = 13282051862146213; Frame = 238
+Data : 0000 10 00 0b 00 07 00 06 00 
+HCI_ReadPacket: Type = AclData; Length = 11; Tick = 13282051862192527; Frame = 239
+Data : 0000 10 20 07 00 03 00 04 00 
+Data : 0008 03 17 00 
+HCI_WritePacket: Type = AclData; Length = 17; Tick = 13282051862192783; Frame = 240
+Data : 0000 10 00 0d 00 09 00 04 00 
+Data : 0008 06 01 00 ff ff 00 28 01 
+Data : 0010 18 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051862253203; Frame = 241
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051862314295; Frame = 242
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 8; Tick = 13282051862372378; Frame = 243
+Data : 0000 10 20 0b 00 07 00 06 00 
+HCI_WritePacket: Type = AclData; Length = 8; Tick = 13282051862372473; Frame = 244
+Data : 0000 10 00 06 00 02 00 06 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051862432427; Frame = 245
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 07 0a 00 0a 00 
+HCI_WritePacket: Type = AclData; Length = 17; Tick = 13282051862432696; Frame = 246
+Data : 0000 10 00 0d 00 09 00 04 00 
+Data : 0008 06 0b 00 ff ff 00 28 01 
+Data : 0010 18 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051862434281; Frame = 247
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051862494290; Frame = 248
+Data : 0000 13 05 01 10 00 01 00 
+HCI_WritePacket: Type = Command; Length = 6; Tick = 13282051862506074; Frame = 249
+Data : 0000 06 04 03 10 00 13 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051862508283; Frame = 250
+Data : 0000 0f 04 00 02 06 04 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051862554209; Frame = 251
+Data : 0000 05 04 00 10 00 16 
+HCI_WritePacket: Type = Command; Length = 28; Tick = 13282051862555276; Frame = 252
+Data : 0000 0d 20 19 12 00 12 00 00 
+Data : 0008 01 b9 9a f5 58 12 e7 00 
+Data : 0010 16 00 30 00 00 00 c0 03 
+Data : 0018 00 00 00 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051862559154; Frame = 253
+Data : 0000 0f 04 00 02 0d 20 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051862559163; Frame = 254
+Data : 0000 0c 20 02 00 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051862561157; Frame = 255
+Data : 0000 0e 04 02 0c 20 00 
+HCI_WritePacket: Type = Command; Length = 10; Tick = 13282051862561170; Frame = 256
+Data : 0000 11 20 07 01 b9 9a f5 58 
+Data : 0008 12 e7 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051862563153; Frame = 257
+Data : 0000 0e 04 02 11 20 00 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051862563164; Frame = 258
+Data : 0000 0c 20 02 01 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051862566155; Frame = 259
+Data : 0000 0e 04 02 0c 20 00 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051862568152; Frame = 260
+Data : 0000 3e 1d 02 01 00 01 b9 9a 
+Data : 0008 f5 58 12 e7 11 02 01 06 
+Data : 0010 0d 09 41 33 33 35 2d 33 
+Data : 0018 30 2e 30 30 30 30 d8 
+HCI_ReadPacket: Type = Event; Length = 31; Tick = 13282051868581164; Frame = 261
+Data : 0000 3e 1d 02 01 00 01 b9 9a 
+Data : 0008 f5 58 12 e7 11 02 01 06 
+Data : 0010 0d 09 41 33 33 35 2d 33 
+Data : 0018 30 2e 30 30 30 30 d8 
+HCI_ReadPacket: Type = Event; Length = 21; Tick = 13282051868583174; Frame = 262
+Data : 0000 3e 13 01 00 10 00 00 01 
+Data : 0008 b9 9a f5 58 12 e7 30 00 
+Data : 0010 00 00 c0 03 00 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051868583203; Frame = 263
+Data : 0000 15 20 02 10 00 
+HCI_ReadPacket: Type = Event; Length = 13; Tick = 13282051868587273; Frame = 264
+Data : 0000 0e 0b 02 15 20 00 10 00 
+Data : 0008 ff ff ff ff 1f 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051868587660; Frame = 265
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 02 0f 02 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051868588206; Frame = 266
+Data : 0000 0c 20 02 00 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051868591160; Frame = 267
+Data : 0000 0e 04 02 0c 20 00 
+HCI_WritePacket: Type = Command; Length = 10; Tick = 13282051868591175; Frame = 268
+Data : 0000 12 20 07 01 b9 9a f5 58 
+Data : 0008 12 e7 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051868593149; Frame = 269
+Data : 0000 0e 04 02 12 20 00 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051868593191; Frame = 270
+Data : 0000 0c 20 02 01 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051868595166; Frame = 271
+Data : 0000 0e 04 02 0c 20 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051868613185; Frame = 272
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 11; Tick = 13282051868672081; Frame = 273
+Data : 0000 10 20 07 00 03 00 04 00 
+Data : 0008 03 17 00 
+HCI_WritePacket: Type = AclData; Length = 17; Tick = 13282051868672373; Frame = 274
+Data : 0000 10 00 0d 00 09 00 04 00 
+Data : 0008 06 01 00 ff ff 00 28 01 
+Data : 0010 18 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051868733154; Frame = 275
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051868851718; Frame = 276
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 07 0a 00 0a 00 
+HCI_WritePacket: Type = AclData; Length = 17; Tick = 13282051868852108; Frame = 277
+Data : 0000 10 00 0d 00 09 00 04 00 
+Data : 0008 06 0b 00 ff ff 00 28 01 
+Data : 0010 18 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051868913290; Frame = 278
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051868971683; Frame = 279
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 06 0b 00 0a 
+HCI_WritePacket: Type = Command; Length = 17; Tick = 13282051868972336; Frame = 280
+Data : 0000 13 20 0e 10 00 06 00 10 
+Data : 0008 00 00 00 c0 03 00 00 00 
+Data : 0010 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051868972511; Frame = 281
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 10 01 00 ff ff 00 28 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051868975259; Frame = 282
+Data : 0000 0f 04 00 02 13 20 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869093240; Frame = 283
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 28; Tick = 13282051869151958; Frame = 284
+Data : 0000 10 20 18 00 14 00 04 00 
+Data : 0008 11 06 01 00 09 00 00 18 
+Data : 0010 0a 00 0a 00 01 18 0b 00 
+Data : 0018 4d 00 0a 18 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869152219; Frame = 285
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 10 4e 00 ff ff 00 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869213203; Frame = 286
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 16; Tick = 13282051869271835; Frame = 287
+Data : 0000 10 20 0c 00 08 00 04 00 
+Data : 0008 11 06 4e 00 ff ff 59 fe 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869272170; Frame = 288
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 4e 00 ff ff 02 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869333148; Frame = 289
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051869391735; Frame = 290
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 08 4e 00 0a 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869392064; Frame = 291
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 4e 00 ff ff 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869453235; Frame = 292
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051869511839; Frame = 293
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 15 4f 00 28 50 00 50 
+Data : 0010 ea da 30 88 83 b8 9f 60 
+Data : 0018 4f 15 f3 03 00 c9 8e 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869512078; Frame = 294
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 50 00 ff ff 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869573187; Frame = 295
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051869631999; Frame = 296
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 08 50 00 0a 
+HCI_ReadPacket: Type = Event; Length = 12; Tick = 13282051869632177; Frame = 297
+Data : 0000 3e 0a 03 00 10 00 0c 00 
+Data : 0008 00 00 c0 03 
+HCI_WritePacket: Type = AclData; Length = 13; Tick = 13282051869632395; Frame = 298
+Data : 0000 10 00 09 00 05 00 04 00 
+Data : 0008 04 51 00 ff ff 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869648203; Frame = 299
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 14; Tick = 13282051869661890; Frame = 300
+Data : 0000 10 20 0a 00 06 00 04 00 
+Data : 0008 05 01 51 00 02 29 
+HCI_WritePacket: Type = AclData; Length = 13; Tick = 13282051869662151; Frame = 301
+Data : 0000 10 00 09 00 05 00 04 00 
+Data : 0008 04 52 00 ff ff 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869678290; Frame = 302
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051869691833; Frame = 303
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 04 52 00 0a 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051869692158; Frame = 304
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 51 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869708288; Frame = 305
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 11; Tick = 13282051869721832; Frame = 306
+Data : 0000 10 20 07 00 03 00 04 00 
+Data : 0008 0b 00 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869722173; Frame = 307
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 0b 00 4d 00 02 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869738282; Frame = 308
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051869751907; Frame = 309
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 08 0b 00 0a 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869752238; Frame = 310
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 0b 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869768172; Frame = 311
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051869782068; Frame = 312
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 0c 00 08 0d 00 01 
+Data : 0010 00 0e 00 02 0f 00 10 00 
+Data : 0018 10 00 02 11 00 11 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869782329; Frame = 313
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 11 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869798269; Frame = 314
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051869812070; Frame = 315
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 12 00 02 13 00 12 
+Data : 0010 00 14 00 02 15 00 13 00 
+Data : 0018 16 00 02 17 00 14 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869812337; Frame = 316
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 17 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869828249; Frame = 317
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051869842073; Frame = 318
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 18 00 0a 19 00 20 
+Data : 0010 00 1a 00 0a 1b 00 21 00 
+Data : 0018 1c 00 02 1d 00 22 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869842345; Frame = 319
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 1d 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869858249; Frame = 320
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051869871935; Frame = 321
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 1e 00 0a 1f 00 23 
+Data : 0010 00 20 00 0a 21 00 24 00 
+Data : 0018 22 00 0a 23 00 25 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869872208; Frame = 322
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 23 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869888181; Frame = 323
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051869901978; Frame = 324
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 24 00 02 25 00 26 
+Data : 0010 00 26 00 02 27 00 27 00 
+Data : 0018 28 00 02 29 00 32 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869902264; Frame = 325
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 29 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869918174; Frame = 326
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051869931896; Frame = 327
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 2a 00 02 2b 00 33 
+Data : 0010 00 2c 00 02 2d 00 35 00 
+Data : 0018 2e 00 02 2f 00 36 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869932181; Frame = 328
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 2f 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869948281; Frame = 329
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051869961962; Frame = 330
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 30 00 02 31 00 37 
+Data : 0010 00 32 00 02 33 00 38 00 
+Data : 0018 34 00 02 35 00 39 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869962231; Frame = 331
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 35 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051869978280; Frame = 332
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051869992069; Frame = 333
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 36 00 12 37 00 3a 
+Data : 0010 00 39 00 08 3a 00 40 00 
+Data : 0018 3b 00 02 3c 00 42 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051869992335; Frame = 334
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 3c 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870008268; Frame = 335
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051870021937; Frame = 336
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 3d 00 02 3e 00 41 
+Data : 0010 00 3f 00 0a 40 00 43 00 
+Data : 0018 41 00 0a 42 00 44 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051870022201; Frame = 337
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 42 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870038176; Frame = 338
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051870051941; Frame = 339
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 43 00 1a 44 00 45 
+Data : 0010 00 46 00 02 47 00 3b 00 
+Data : 0018 48 00 12 49 00 28 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051870052221; Frame = 340
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 49 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870068154; Frame = 341
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 17; Tick = 13282051870081910; Frame = 342
+Data : 0000 10 20 0d 00 09 00 04 00 
+Data : 0008 09 07 4b 00 10 4c 00 50 
+Data : 0010 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051870082177; Frame = 343
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 4c 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870098286; Frame = 344
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870111935; Frame = 345
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 08 4c 00 0a 
+HCI_WritePacket: Type = AclData; Length = 13; Tick = 13282051870112325; Frame = 346
+Data : 0000 10 00 09 00 05 00 04 00 
+Data : 0008 04 4d 00 4d 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870128285; Frame = 347
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 14; Tick = 13282051870141779; Frame = 348
+Data : 0000 10 20 0a 00 06 00 04 00 
+Data : 0008 05 01 4d 00 02 29 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870142119; Frame = 349
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 4d 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870173245; Frame = 350
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 11; Tick = 13282051870186885; Frame = 351
+Data : 0000 10 20 07 00 03 00 04 00 
+Data : 0008 0b 00 00 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870187224; Frame = 352
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 49 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870203149; Frame = 353
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870216863; Frame = 354
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 49 00 05 
+HCI_WritePacket: Type = AclData; Length = 13; Tick = 13282051870217222; Frame = 355
+Data : 0000 10 00 09 00 05 00 04 00 
+Data : 0008 04 4a 00 4a 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870233156; Frame = 356
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 14; Tick = 13282051870246898; Frame = 357
+Data : 0000 10 20 0a 00 06 00 04 00 
+Data : 0008 05 01 4a 00 02 29 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870247232; Frame = 358
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 4a 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870263203; Frame = 359
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 11; Tick = 13282051870276908; Frame = 360
+Data : 0000 10 20 07 00 03 00 04 00 
+Data : 0008 0b 00 00 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870277246; Frame = 361
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 47 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870293282; Frame = 362
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870306931; Frame = 363
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 47 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870307279; Frame = 364
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 44 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870323276; Frame = 365
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870336837; Frame = 366
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 44 00 05 
+HCI_WritePacket: Type = AclData; Length = 13; Tick = 13282051870337115; Frame = 367
+Data : 0000 10 00 09 00 05 00 04 00 
+Data : 0008 04 45 00 45 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870353207; Frame = 368
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 14; Tick = 13282051870366870; Frame = 369
+Data : 0000 10 20 0a 00 06 00 04 00 
+Data : 0008 05 01 45 00 02 29 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870367181; Frame = 370
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 45 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870383180; Frame = 371
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 11; Tick = 13282051870396855; Frame = 372
+Data : 0000 10 20 07 00 03 00 04 00 
+Data : 0008 0b 00 00 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870397195; Frame = 373
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 42 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870413281; Frame = 374
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870426884; Frame = 375
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 42 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870427236; Frame = 376
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 40 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870443283; Frame = 377
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870456896; Frame = 378
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 40 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870457260; Frame = 379
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 3e 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870473299; Frame = 380
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870486852; Frame = 381
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 3e 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870487202; Frame = 382
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 3c 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870503210; Frame = 383
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870516844; Frame = 384
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 3c 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870517228; Frame = 385
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 37 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870533283; Frame = 386
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870546957; Frame = 387
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 37 00 05 
+HCI_WritePacket: Type = AclData; Length = 13; Tick = 13282051870547285; Frame = 388
+Data : 0000 10 00 09 00 05 00 04 00 
+Data : 0008 04 38 00 38 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870563291; Frame = 389
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 14; Tick = 13282051870576926; Frame = 390
+Data : 0000 10 20 0a 00 06 00 04 00 
+Data : 0008 05 01 38 00 02 29 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870577267; Frame = 391
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 38 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870593282; Frame = 392
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 11; Tick = 13282051870606931; Frame = 393
+Data : 0000 10 20 07 00 03 00 04 00 
+Data : 0008 0b 00 00 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870607269; Frame = 394
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 35 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870623303; Frame = 395
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870636851; Frame = 396
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 35 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870637207; Frame = 397
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 33 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870653193; Frame = 398
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870666975; Frame = 399
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 33 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870667323; Frame = 400
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 31 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870683281; Frame = 401
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870696958; Frame = 402
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 31 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870697302; Frame = 403
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 2f 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870713283; Frame = 404
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870726957; Frame = 405
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 2f 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870727300; Frame = 406
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 2d 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870743293; Frame = 407
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870756901; Frame = 408
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 2d 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870757251; Frame = 409
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 2b 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870773179; Frame = 410
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870786824; Frame = 411
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 2b 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870787171; Frame = 412
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 29 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870818230; Frame = 413
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870831959; Frame = 414
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 29 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870832305; Frame = 415
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 27 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870848249; Frame = 416
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870861966; Frame = 417
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 27 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870862313; Frame = 418
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 25 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870878175; Frame = 419
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870891852; Frame = 420
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 25 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870892192; Frame = 421
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 23 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870908281; Frame = 422
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870921903; Frame = 423
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 23 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870922220; Frame = 424
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 21 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870938147; Frame = 425
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870951956; Frame = 426
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 21 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870952313; Frame = 427
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 1f 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870968150; Frame = 428
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051870981980; Frame = 429
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 1f 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051870982322; Frame = 430
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 1d 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051870998282; Frame = 431
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051871011906; Frame = 432
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 1d 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051871012248; Frame = 433
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 1b 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871028286; Frame = 434
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051871041981; Frame = 435
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 1b 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051871042325; Frame = 436
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 19 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871058284; Frame = 437
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051871071881; Frame = 438
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 19 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051871072228; Frame = 439
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 17 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871088288; Frame = 440
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051871101823; Frame = 441
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 17 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051871102210; Frame = 442
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 15 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871118175; Frame = 443
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051871131925; Frame = 444
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 15 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051871132283; Frame = 445
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 13 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871148162; Frame = 446
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051871161956; Frame = 447
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 13 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051871162299; Frame = 448
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 11 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871178280; Frame = 449
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051871191957; Frame = 450
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 11 00 05 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051871192301; Frame = 451
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 0f 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871208229; Frame = 452
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051871222018; Frame = 453
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 0f 00 05 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051871222415; Frame = 454
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 01 00 09 00 02 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871238182; Frame = 455
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051871251913; Frame = 456
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 08 01 00 0a 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051871252244; Frame = 457
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 01 00 09 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871268146; Frame = 458
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051871282093; Frame = 459
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 02 00 0a 03 00 00 
+Data : 0010 2a 04 00 02 05 00 01 2a 
+Data : 0018 06 00 02 07 00 04 2a 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051871282389; Frame = 460
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 07 00 09 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871298144; Frame = 461
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 17; Tick = 13282051871311980; Frame = 462
+Data : 0000 10 20 0d 00 09 00 04 00 
+Data : 0008 09 07 08 00 02 09 00 a6 
+Data : 0010 2a 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051871312244; Frame = 463
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 09 00 09 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871328282; Frame = 464
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051871342014; Frame = 465
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 08 09 00 0a 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051871342348; Frame = 466
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 09 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871358279; Frame = 467
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 10; Tick = 13282051871371983; Frame = 468
+Data : 0000 10 20 06 00 02 00 04 00 
+Data : 0008 0b 01 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051871372326; Frame = 469
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 07 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871388198; Frame = 470
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 17; Tick = 13282051871402007; Frame = 471
+Data : 0000 10 20 0d 00 09 00 04 00 
+Data : 0008 0b 06 00 50 00 00 00 2c 
+Data : 0010 01 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051871402383; Frame = 472
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 05 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871418305; Frame = 473
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 11; Tick = 13282051871432005; Frame = 474
+Data : 0000 10 20 07 00 03 00 04 00 
+Data : 0008 0b 00 00 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051871432350; Frame = 475
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 03 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871448285; Frame = 476
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 21; Tick = 13282051871462090; Frame = 477
+Data : 0000 10 20 11 00 0d 00 04 00 
+Data : 0008 0b 41 33 33 35 2d 33 30 
+Data : 0010 2e 30 30 30 30 
+HCI_WritePacket: Type = Command; Length = 17; Tick = 13282051871462367; Frame = 478
+Data : 0000 13 20 0e 10 00 16 00 30 
+Data : 0008 00 00 00 c0 03 00 00 00 
+Data : 0010 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051871465164; Frame = 479
+Data : 0000 0f 04 00 02 13 20 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051871473746; Frame = 480
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 10 01 00 ff ff 00 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871493281; Frame = 481
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 28; Tick = 13282051871507134; Frame = 482
+Data : 0000 10 20 18 00 14 00 04 00 
+Data : 0008 11 06 01 00 09 00 00 18 
+Data : 0010 0a 00 0a 00 01 18 0b 00 
+Data : 0018 4d 00 0a 18 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051871507373; Frame = 483
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 10 4e 00 ff ff 00 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871523306; Frame = 484
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 16; Tick = 13282051871536886; Frame = 485
+Data : 0000 10 20 0c 00 08 00 04 00 
+Data : 0008 11 06 4e 00 ff ff 59 fe 
+HCI_WritePacket: Type = AclData; Length = 17; Tick = 13282051871537234; Frame = 486
+Data : 0000 10 00 0d 00 09 00 04 00 
+Data : 0008 06 01 00 ff ff 00 28 13 
+Data : 0010 18 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871553209; Frame = 487
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051871567000; Frame = 488
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 06 01 00 0a 
+HCI_ReadPacket: Type = Event; Length = 12; Tick = 13282051871628206; Frame = 489
+Data : 0000 3e 0a 03 00 10 00 30 00 
+Data : 0008 00 00 c0 03 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051871673428; Frame = 490
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 0b 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871748146; Frame = 491
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051871807067; Frame = 492
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 0c 00 08 0d 00 01 
+Data : 0010 00 0e 00 02 0f 00 10 00 
+Data : 0018 10 00 02 11 00 11 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051871807317; Frame = 493
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 11 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871868214; Frame = 494
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051871927177; Frame = 495
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 12 00 02 13 00 12 
+Data : 0010 00 14 00 02 15 00 13 00 
+Data : 0018 16 00 02 17 00 14 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051871927447; Frame = 496
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 17 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051871988172; Frame = 497
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051872047093; Frame = 498
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 18 00 0a 19 00 20 
+Data : 0010 00 1a 00 0a 1b 00 21 00 
+Data : 0018 1c 00 02 1d 00 22 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051872047392; Frame = 499
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 1d 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051872108197; Frame = 500
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051872167058; Frame = 501
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 1e 00 0a 1f 00 23 
+Data : 0010 00 20 00 0a 21 00 24 00 
+Data : 0018 22 00 0a 23 00 25 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051872167271; Frame = 502
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 23 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051872228275; Frame = 503
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051872287119; Frame = 504
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 24 00 02 25 00 26 
+Data : 0010 00 26 00 02 27 00 27 00 
+Data : 0018 28 00 02 29 00 32 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051872287373; Frame = 505
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 29 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051872348202; Frame = 506
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051872407217; Frame = 507
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 2a 00 02 2b 00 33 
+Data : 0010 00 2c 00 02 2d 00 35 00 
+Data : 0018 2e 00 02 2f 00 36 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051872407508; Frame = 508
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 2f 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051872468280; Frame = 509
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051872527228; Frame = 510
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 30 00 02 31 00 37 
+Data : 0010 00 32 00 02 33 00 38 00 
+Data : 0018 34 00 02 35 00 39 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051872527501; Frame = 511
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 35 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051872648284; Frame = 512
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051872707215; Frame = 513
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 36 00 12 37 00 3a 
+Data : 0010 00 39 00 08 3a 00 40 00 
+Data : 0018 3b 00 02 3c 00 42 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051872707534; Frame = 514
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 3c 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051872768288; Frame = 515
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051872827328; Frame = 516
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 3d 00 02 3e 00 41 
+Data : 0010 00 3f 00 0a 40 00 43 00 
+Data : 0018 41 00 0a 42 00 44 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051872827603; Frame = 517
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 42 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051872888166; Frame = 518
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 31; Tick = 13282051872947263; Frame = 519
+Data : 0000 10 20 1b 00 17 00 04 00 
+Data : 0008 09 07 43 00 1a 44 00 45 
+Data : 0010 00 46 00 02 47 00 3b 00 
+Data : 0018 48 00 12 49 00 28 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051872947531; Frame = 520
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 49 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051873008148; Frame = 521
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 17; Tick = 13282051873066995; Frame = 522
+Data : 0000 10 20 0d 00 09 00 04 00 
+Data : 0008 09 07 4b 00 10 4c 00 50 
+Data : 0010 00 
+HCI_WritePacket: Type = AclData; Length = 15; Tick = 13282051873067245; Frame = 523
+Data : 0000 10 00 0b 00 07 00 04 00 
+Data : 0008 08 4c 00 4d 00 03 28 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051873128200; Frame = 524
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051873187037; Frame = 525
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 08 4c 00 0a 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051873227945; Frame = 526
+Data : 0000 0c 20 02 00 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051873230193; Frame = 527
+Data : 0000 0e 04 02 0c 20 00 
+HCI_WritePacket: Type = Command; Length = 10; Tick = 13282051873230248; Frame = 528
+Data : 0000 11 20 07 01 b9 9a f5 58 
+Data : 0008 12 e7 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051873232196; Frame = 529
+Data : 0000 0e 04 02 11 20 00 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051873232249; Frame = 530
+Data : 0000 0c 20 02 01 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051873235137; Frame = 531
+Data : 0000 0e 04 02 0c 20 00 
+HCI_WritePacket: Type = AclData; Length = 11; Tick = 13282051873259479; Frame = 532
+Data : 0000 10 00 07 00 03 00 04 00 
+Data : 0008 0a 0f 00 
+HCI_ReadPacket: Type = Event; Length = 7; Tick = 13282051873308278; Frame = 533
+Data : 0000 13 05 01 10 00 01 00 
+HCI_ReadPacket: Type = AclData; Length = 13; Tick = 13282051873367137; Frame = 534
+Data : 0000 10 20 09 00 05 00 04 00 
+Data : 0008 01 0a 0f 00 05 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051873380012; Frame = 535
+Data : 0000 0c 20 02 00 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051873382165; Frame = 536
+Data : 0000 0e 04 02 0c 20 00 
+HCI_WritePacket: Type = Command; Length = 10; Tick = 13282051873382175; Frame = 537
+Data : 0000 12 20 07 01 b9 9a f5 58 
+Data : 0008 12 e7 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051873384162; Frame = 538
+Data : 0000 0e 04 02 12 20 00 
+HCI_WritePacket: Type = Command; Length = 5; Tick = 13282051873384211; Frame = 539
+Data : 0000 0c 20 02 01 00 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051873386187; Frame = 540
+Data : 0000 0e 04 02 0c 20 00 
+HCI_WritePacket: Type = Command; Length = 6; Tick = 13282051876444555; Frame = 541
+Data : 0000 06 04 03 10 00 13 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051876447167; Frame = 542
+Data : 0000 0f 04 00 02 06 04 
+HCI_ReadPacket: Type = Event; Length = 6; Tick = 13282051876489288; Frame = 543
+Data : 0000 05 04 00 10 00 16 
